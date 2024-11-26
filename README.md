@@ -1,11 +1,11 @@
 # Tasks
 
 
-##task 1: Bracket Expressions
+##task 1: 
 Task1.java
 Counts valid bracket expressions using Catalan numbers.
 
-##task 2: Shortest Path Finder
+##task 2: 
 Task2.java
 Finds the shortest path between cities using Dijkstra's algorithm.
 
